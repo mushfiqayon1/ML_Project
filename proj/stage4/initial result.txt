@@ -1,0 +1,17 @@
+PWM_Thrust_dataset.csv
+
+Training accuracy for KRR
+0.36696739696777736
+MSE train: 0.006, test:0.006
+R^2 value train: 0.367, test:0.351
+
+Training accuracy for RFR
+0.9387709863258721
+MSE train: 0.001, test:0.004
+R^2 value train: 0.939, test:0.545
+
+Training accuracy for SVR
+0.11677947960519308
+MSE train: 0.008, test:0.008
+R^2 value train: 0.117, test:0.063
+
